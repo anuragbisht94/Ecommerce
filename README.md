@@ -1,7 +1,7 @@
 # Ecommerce
 Ecommerce sales dashboard
 
-PowerBI-Madhav_Ecommerce_Sales
+**PowerBI-Madhav_Ecommerce_Sales**
 PowerBI interactive dashboard to track and analyze online sales data.
 
 - Created interactive dashboard to track and analyze online sales data.
