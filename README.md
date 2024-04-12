@@ -10,7 +10,7 @@ Created connections, join new tables, calculations to manipulate data and enable
 Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
 
 
-. Database and Tools
-. POWER BI Desktop
+Database and Tools
+POWER BI Desktop
 
 MADHAV ECOMMERCE SALES POWER BI DASHBOARD
