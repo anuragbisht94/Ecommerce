@@ -11,6 +11,7 @@ Used different types of customized visualization (bar chart, pie chart, donut ch
 
 
 **Database and Tools**
-POWER BI Desktop
+- POWER BI Desktop
 
 MADHAV ECOMMERCE SALES POWER BI DASHBOARD
+![Ecommerce Dashboard](https://github.com/anuragbisht94/Ecommerce/assets/30321490/01a32530-6213-4699-8179-bb96cb2a7a47)
